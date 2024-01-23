@@ -1,0 +1,20 @@
+First Name: Jonathan
+Last Name: Cherry
+TUid: 916067908
+Email: tuo97200@temple.edu
+Phone Number: 000000000
+Major: Computer Science
+Expected Graduation Year: 2025
+Grad degree: Undergraduate
+
+
+First Name: Thomas
+Last Name: Cherry
+TUid: -1
+Email: idk
+Phone Number: 000000000
+Major: Actuarial Sciences
+Expected Graduation Year: 2023
+Grad degree: Graduated
+
+
